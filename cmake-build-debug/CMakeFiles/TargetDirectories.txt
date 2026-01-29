@@ -1,0 +1,7 @@
+C:/Users/Benni/CLionProjects/SEC_Fraud_Analyzer_Server/cmake-build-debug/CMakeFiles/sec_fraud_analyzer.dir
+C:/Users/Benni/CLionProjects/SEC_Fraud_Analyzer_Server/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Benni/CLionProjects/SEC_Fraud_Analyzer_Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Benni/CLionProjects/SEC_Fraud_Analyzer_Server/cmake-build-debug/CMakeFiles/list_install_components.dir
+C:/Users/Benni/CLionProjects/SEC_Fraud_Analyzer_Server/cmake-build-debug/CMakeFiles/install.dir
+C:/Users/Benni/CLionProjects/SEC_Fraud_Analyzer_Server/cmake-build-debug/CMakeFiles/install/local.dir
+C:/Users/Benni/CLionProjects/SEC_Fraud_Analyzer_Server/cmake-build-debug/CMakeFiles/install/strip.dir

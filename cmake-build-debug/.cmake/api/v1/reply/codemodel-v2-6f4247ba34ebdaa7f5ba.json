@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f624db154e28bd535e8e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Sec_Fraud_Analyzer_Server",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "sec_fraud_analyzer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sec_fraud_analyzer-Debug-d08ce5f8a229bfb40a83.json",
+					"name" : "sec_fraud_analyzer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Benni/CLionProjects/SEC_Fraud_Analyzer_Server/cmake-build-debug",
+		"source" : "C:/Users/Benni/CLionProjects/SEC_Fraud_Analyzer_Server"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

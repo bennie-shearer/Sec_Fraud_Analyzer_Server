@@ -1,0 +1,77 @@
+MIT License
+
+Copyright (c) 2026 Bennie Shearer
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-------------------------------------------------------------------------------
+
+SEC EDGAR Fraud Analyzer
+Version: 2.1.2
+Author: Bennie Shearer (Retired)
+
+DISCLAIMER: This project is NOT funded, endorsed, or approved by the
+U.S. Securities and Exchange Commission (SEC).
+
+This software is provided for educational and research purposes only.
+It should not be used as the sole basis for investment decisions.
+
+Data sourced from the U.S. Securities and Exchange Commission (SEC) EDGAR
+database, which is in the public domain.
+
+-------------------------------------------------------------------------------
+
+Third-Party Acknowledgments:
+
+This project implements algorithms from the following academic works:
+
+1. Beneish M-Score
+   Beneish, M.D. (1999). "The Detection of Earnings Manipulation."
+   Financial Analysts Journal, 55(5), 24-36.
+
+2. Altman Z-Score
+   Altman, E.I. (1968). "Financial Ratios, Discriminant Analysis and the
+   Prediction of Corporate Bankruptcy." Journal of Finance, 23(4), 589-609.
+
+3. Piotroski F-Score
+   Piotroski, J.D. (2000). "Value Investing: The Use of Historical Financial
+   Statement Information to Separate Winners from Losers."
+   Journal of Accounting Research, 38, 1-41.
+
+4. Benford's Law
+   Nigrini, M.J. (2012). Benford's Law: Applications for Forensic Accounting,
+   Auditing, and Fraud Detection. Wiley.
+
+5. Fraud Triangle
+   Cressey, D.R. (1953). Other People's Money: A Study in the Social
+   Psychology of Embezzlement. Free Press.
+
+-------------------------------------------------------------------------------
+
+Acknowledgments:
+
+- Walter Hamscher - Mentor and XBRL expert
+- SEC EDGAR - Financial data source
+- CLion by JetBrains s.r.o.
+- Claude by Anthropic PBC
+
+-------------------------------------------------------------------------------
+
+Version: 2.1.2
+Date: January 2026

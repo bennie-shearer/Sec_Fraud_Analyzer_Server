@@ -1,0 +1,13 @@
+# ninja log v6
+36	991	7909034528291382	CMakeFiles/sec_fraud_analyzer.dir/src/models/altman.cpp.obj	635a1089ba537f4c
+27	1443	7909034528197332	CMakeFiles/sec_fraud_analyzer.dir/src/cache.cpp.obj	8034915d5f83de72
+42	994	7909034528358236	CMakeFiles/sec_fraud_analyzer.dir/src/models/piotroski.cpp.obj	ff410a1c67fda3c2
+47	1033	7909034528406892	CMakeFiles/sec_fraud_analyzer.dir/src/models/fraud_triangle.cpp.obj	5865b8c1a7403e8d
+31	1011	7909034528249351	CMakeFiles/sec_fraud_analyzer.dir/src/models/beneish.cpp.obj	51c3994b25e02401
+16	1923	7909034528094782	CMakeFiles/sec_fraud_analyzer.dir/src/analyzer.cpp.obj	476d5d0a0741b97f
+52	1109	7909034528458098	CMakeFiles/sec_fraud_analyzer.dir/src/models/benford.cpp.obj	5315c0f9fcc9c91
+7	1986	7909034528007960	CMakeFiles/sec_fraud_analyzer.dir/src/http_server.cpp.obj	ed92dc734571aad1
+21	1997	7909034528146539	CMakeFiles/sec_fraud_analyzer.dir/src/exporter.cpp.obj	cb2694cf295b220f
+12	2544	7909034528057949	CMakeFiles/sec_fraud_analyzer.dir/src/sec_fetcher.cpp.obj	d2c96fb80a362e52
+2	3023	7909034527947889	CMakeFiles/sec_fraud_analyzer.dir/src/main.cpp.obj	7caf5e6fc1057508
+3023	4516	7909034558161508	bin/sec_fraud_analyzer.exe	20bab588939c951d

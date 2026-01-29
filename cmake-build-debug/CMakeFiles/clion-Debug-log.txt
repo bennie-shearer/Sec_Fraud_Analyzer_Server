@@ -1,0 +1,14 @@
+"C:\Program Files\JetBrains\CLion 2024.3.5\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.3.5/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\Benni\CLionProjects\SEC_Fraud_Analyzer_Server -B C:\Users\Benni\CLionProjects\SEC_Fraud_Analyzer_Server\cmake-build-debug
+-- 
+-- SEC EDGAR Fraud Analyzer v2.1.2
+-- Author: Bennie Shearer (Retired)
+-- 
+-- Configuration:
+--   C++ Standard: 20
+--   Build Type: Debug
+--   Platform: Windows
+--   Compiler: GNU 13.1.0
+-- 
+-- Configuring done (0.2s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/Users/Benni/CLionProjects/SEC_Fraud_Analyzer_Server/cmake-build-debug
